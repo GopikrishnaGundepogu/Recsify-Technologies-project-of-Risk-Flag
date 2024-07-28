@@ -49,7 +49,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/client-risk-prediction.git
+git clone risk_flag.ipynb
 Navigate to the project directory:
 bash
 Copy code
