@@ -49,7 +49,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone risk_flag.ipynb
+git clone [risk_flag.ipynb](https://colab.research.google.com/drive/1G5QSslGmrDbZnv1BHfAwAzNrdo8Cy3lU#scrollTo=G3C9BXYww8kV)
 Navigate to the project directory:
 bash
 Copy code
